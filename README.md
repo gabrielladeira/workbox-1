@@ -20,5 +20,5 @@
 
 ###### STEP 3:
 - Create the app
-- ```sails new workbox''' 
+- ```sails new workbox```
 
