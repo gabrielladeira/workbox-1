@@ -22,3 +22,7 @@
 - Create the app
 - ```sails new workbox```
 
+###### STEP 4:
+- Start app
+- ```sails sails lift```
+
